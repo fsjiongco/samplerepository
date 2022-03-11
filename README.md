@@ -12,7 +12,7 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 ```
 
 # Documentation
-- **==You must add screenshots of your work.==**
+- **You must add ==screenshots== of your work.**
 
 #### chrome
 ![final_app1](img/final_app1.png)
