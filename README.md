@@ -18,6 +18,9 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 ![final_app2](img/final_app2.png)
 ![final_app3](img/final_app3.png)
 ![final_app4](img/final_app4.png)
+![app_on_phone1](img/app_on_phone1.jpg)
+![app_on_phone2](img/app_on_phone2.jpg)
+
 
 
 - What did you add to the code.
