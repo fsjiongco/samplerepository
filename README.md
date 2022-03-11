@@ -25,7 +25,7 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 
 
 
-- What did you add to the code.
+- **What did you add to the code.**
 
 > In order to satisfy the specifications stated in this exercise, I added a couple of things to my code from the tutorial of developing my first flutter app. 
 I started by deleting the code that generated the pair words, and then I formed a list out of the string of hobbies. 
