@@ -16,7 +16,7 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 
 ![profiling_app1](profiling_app1)
 ![title](profiling_app2)
-![title](img/profiling_app3)
+![title](./img/profiling_app3)
 ![title](img/profiling_app4)
 
 
