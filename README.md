@@ -14,12 +14,12 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 # Documentation
 - **You must add screenshots of your work.**
 
-> chrome <br/>
+> chrome <br/> <br/>
 ![final_app1](img/final_app1.png) <br/>
 ![final_app2](img/final_app2.png ) <br/>
 ![final_app3](img/final_app3.png) <br/>
 ![final_app4](img/final_app4.png) <br/>
-> phone <br/>
+> phone <br/><br/>
 ![app_on_phone1](img/app_on_phone1.jpg) <br/>
 ![app_on_phone2](img/app_on_phone2.jpg) <br/>
 
