@@ -19,13 +19,13 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 ![final_app2](img/final_app2.png)
 ![final_app3](img/final_app3.png)
 ![final_app4](img/final_app4.png)
-> phone
+> phone <br/>
 ![app_on_phone1](img/app_on_phone1.jpg)
 ![app_on_phone2](img/app_on_phone2.jpg)
 
 
 
-- **==What did you add to the code.==**
+- **What did you add to the code.**
 
 > In order to satisfy the specifications stated in this exercise, I added a couple of things to my code from the tutorial of developing my first flutter app. 
 I started by deleting the code that generated the pair words, and then I formed a list out of the string of hobbies. 
