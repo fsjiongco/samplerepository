@@ -14,7 +14,7 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 # Documentation
 - You must add screenshots of your work.
 
-![title](img/profiling_app1)
+![profiling_app1](img/profiling_app1)
 ![title](img/profiling_app2)
 ![title](img/profiling_app3)
 ![title](img/profiling_app4)
