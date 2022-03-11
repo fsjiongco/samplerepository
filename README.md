@@ -14,7 +14,7 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 # Documentation
 - **You must add screenshots of your work.**
 
-> chrome
+> chrome <br/>
 ![final_app1](img/final_app1.png)
 ![final_app2](img/final_app2.png)
 ![final_app3](img/final_app3.png)
