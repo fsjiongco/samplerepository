@@ -14,10 +14,10 @@ surnameinitials_exer1_section e.g. (TANKLM_exer1_wx1).
 # Documentation
 - You must add screenshots of your work.
 
-![profiling_app1](img/profiling_app1.png)
-![title](img/profiling_app2.png)
-![title](img/profiling_app3.png)
-![title](img/profiling_app4.png)
+![final_app1](img/final_app1.png)
+![final_app2](img/final_app2.png)
+![final_app3](img/final_app3.png)
+![final_app4](img/final_app4.png)
 
 
 - What did you add to the code.
